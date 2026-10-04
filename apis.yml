@@ -39,7 +39,6 @@ apis:
   - name: URLScan.io
     description: "Scan and Analyse URLs"
     humanURL: https://urlscan.io/about-api/
-    baseURL: https://urlscan.io/about-api/
     tags:
       - Anti Malware
     properties:
