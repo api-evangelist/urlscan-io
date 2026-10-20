@@ -2,6 +2,7 @@ generated: '2026-10-14'
 method: searched
 checked:
 - https://github.com/n8n-io/n8n/tree/860f1273ebd73fabbd668cbec2c49ed9b48a286d/packages/nodes-base/nodes/
+- https://github.com/n8n-io/n8n/tree/f73dc337f8dc61a4fd44aebe41c55faafe4f53a4/packages/nodes-base/nodes/
 - palo-alto-networks/integrations/palo-alto-networks-integration-edges.yml
 source:
 - palo-alto-networks/integrations/palo-alto-networks-integration-edges.yml
@@ -33,7 +34,7 @@ edges:
   channel: open-source-node
   relationship: ipaas-bridge
   direction: third-party
-  evidence: https://github.com/n8n-io/n8n/tree/860f1273ebd73fabbd668cbec2c49ed9b48a286d/packages/nodes-base/nodes/UrlScanIo
+  evidence: https://github.com/n8n-io/n8n/tree/f73dc337f8dc61a4fd44aebe41c55faafe4f53a4/packages/nodes-base/nodes/UrlScanIo
   category: null
   contract_reference:
     register: n8n built-in nodes (n8n-io/n8n packages/nodes-base)
